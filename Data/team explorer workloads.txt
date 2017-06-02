@@ -1,0 +1,75 @@
+
+Skip to main content
+Microsoft Microsoft
+
+VS IDE
+Docs
+WindowsMicrosoft AzureVisual StudioOffice
+Visual Studio Team Explorer 2017 component directory
+2017-5-10 1 min to read Contributors
+
+    Terry G. Lee Colin Robertson Terry G. Lee 
+
+The tables on this page list the IDs that you can use to install Visual Studio by using the command line. Note that we will add additional components as we release updates to Visual Studio.
+
+Also note the following about this page:
+
+    Each workload has its own section, followed by the workload ID and a table of the components that are available for the workload.
+    By default, the Required components will be installed when you install the workload. If you choose to, you can also install the Recommended and Optional components.
+    We've also added a section that lists the additional components that are not affiliated with any workload.
+
+For more information about how to use these IDs, see Use Command-Line Parameters to Install Visual Studio 2017 page. And, for a list of workload and component IDs for other products, see Visual Studio 2017 Workload and Component IDs page.
+Visual Studio core editor (included with Visual Studio Team Explorer 2017)
+
+ID: Microsoft.VisualStudio.Workload.CoreEditor
+
+Description: The Visual Studio core shell experience, including syntax-aware code editing, source code control and work item management.
+Components included by this workload
+Component ID 	Name 	Version 	Dependency type
+Microsoft.VisualStudio.Component.CoreEditor 	Visual Studio core editor 	15.0.26208.0 	Required
+Unaffiliated components
+
+These are components that are not included with any workload, but may be selected as an individual component.
+Component ID 	Name 	Version
+n/a 	n/a 	n/a
+See also
+
+    Visual Studio workload and component IDs
+    Visual Studio administrator guide
+    Use command-line parameters to install Visual Studio
+        Command-line parameter examples
+    Create an offline installation of Visual Studio
+
+    Comments
+    Edit
+    Share
+    Theme
+
+In this article
+
+    Visual Studio core editor (included with Visual Studio Team Explorer 2017)
+    Unaffiliated components
+    See also
+
+    DocsVisual StudioDocumentationInstallation
+
+    Welcome to Visual Studio 2017!
+    What's New
+    Installation
+    Visual Studio IDE
+    Visual Basic
+    Visual C#‎
+    Visual C++‎
+    Java​Script
+    Python
+    R
+    Visual F#‎
+    Data Access
+    Cross-Platform Mobile Development
+    Office and Sharepoint Development
+    Port, Migrate, and Upgrade Your Code
+    Extensibility
+    Talk to Us
+
+    Blog Privacy & Cookies Terms of Use Feedback Trademarks 
+
